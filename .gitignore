@@ -1,0 +1,32 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Large assets (use Git LFS later)
+*.uasset
+*.umap
+*.fbx
+*.obj
+*.blend1
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+*.user
+*.userosscache
+
+# Python
+__pycache__/
+*.pyc
+.venv/
